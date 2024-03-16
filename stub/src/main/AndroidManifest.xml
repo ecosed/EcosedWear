@@ -13,7 +13,7 @@
         android:theme="@style/Theme.EcosedWear"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="io.ecosed.stub.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

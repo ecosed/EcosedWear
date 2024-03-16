@@ -8,7 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/base" />
+            <option value="$PROJECT_DIR$/hybrid" />
             <option value="$PROJECT_DIR$/stub" />
+            <option value="$PROJECT_DIR$/utils" />
             <option value="$PROJECT_DIR$/watch" />
             <option value="$PROJECT_DIR$/wear" />
           </set>

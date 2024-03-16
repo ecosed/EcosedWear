@@ -1,4 +1,4 @@
-package io.ecosed.wear
+package io.ecosed.stub
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

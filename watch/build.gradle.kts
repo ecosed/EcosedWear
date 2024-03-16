@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "io.ecosed.wear"
+    namespace = "io.ecosed.watch"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "io.ecosed.wear"
+        applicationId = "io.ecosed.watch"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

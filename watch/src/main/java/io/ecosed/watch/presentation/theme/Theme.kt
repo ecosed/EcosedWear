@@ -1,4 +1,4 @@
-package io.ecosed.wear.presentation.theme
+package io.ecosed.watch.presentation.theme
 
 import androidx.compose.runtime.Composable
 import androidx.wear.compose.material.MaterialTheme

@@ -4,7 +4,7 @@
  * changes to the libraries and their usages.
  */
 
-package io.ecosed.wear.presentation
+package io.ecosed.watch.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -25,7 +25,7 @@ import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
 import androidx.wear.compose.material.TimeText
 import io.ecosed.wear.R
-import io.ecosed.wear.presentation.theme.EcosedWearTheme
+import io.ecosed.watch.presentation.theme.EcosedWearTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

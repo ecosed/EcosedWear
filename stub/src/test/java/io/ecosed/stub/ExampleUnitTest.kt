@@ -1,4 +1,4 @@
-package io.ecosed.wear
+package io.ecosed.stub
 
 import org.junit.Test
 

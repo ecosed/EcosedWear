@@ -26,3 +26,6 @@ include(":stub")
 include(":wear")
 // 适用于魔改Android手表
 include(":watch")
+include(":base")
+include(":hybrid")
+include(":utils")
