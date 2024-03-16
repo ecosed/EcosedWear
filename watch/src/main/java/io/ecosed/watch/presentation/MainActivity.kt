@@ -24,7 +24,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
 import androidx.wear.compose.material.TimeText
-import io.ecosed.wear.R
+import io.ecosed.watch.R
 import io.ecosed.watch.presentation.theme.EcosedWearTheme
 
 class MainActivity : ComponentActivity() {
